@@ -1,0 +1,1 @@
+wget $1 --spider --server-response -O - 2>&1 | sed -ne '/Length/{s/.*: //;p}'
