@@ -16,5 +16,6 @@
 
 # INSTALLATION:
 
- $ sudo make install
+ $ sudo ./install
 
+   (file is installed in /usr/local/bin/)

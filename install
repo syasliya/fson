@@ -1,0 +1,4 @@
+echo ============================
+cp fson /usr/local/bin/fson
+echo "file installed succesfully"
+echo ============================
